@@ -1,4 +1,3 @@
-# Data_analyst_projects
 # Data Analyst Portfolio – Three Projects
 
 ## 1. Booking Trend Analysis (SQL + Python + Power BI)
